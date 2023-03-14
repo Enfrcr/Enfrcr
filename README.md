@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 I'm currently taking classes to complete a Bachelor's degree in Software Engineering and I'm learning some more hands on skills outside of my coursework.
 
 <!--
 **Enfrcr/Enfrcr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
